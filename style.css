@@ -28,3 +28,10 @@ nav a{
     font-variant: small-caps;
     
 }
+table{
+    width: 50%;
+}
+table, th{
+    border: 2px solid black;
+     
+}
