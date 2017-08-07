@@ -4,9 +4,21 @@ body{
     padding: 100px;
     
 }
+.container{
+    background-color: lightgoldenrodyellow;
+    width: 90%;
+    height: 120%;
+    max-width: 1100px;
+    padding-left: 3em;
+    padding-right: 3em;
+}
+
 
 h1{
     padding: 30px;
+}
+h2{
+    color: red;
 }
 
 .fotovaldep{
@@ -30,8 +42,12 @@ nav a{
 }
 table{
     width: 60%;
+    
 }
 table, th{
-    border: 2px solid black;
+    border: 2px solid blue;
      
 }
+
+
+
